@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ravindra Singh
+- <h1>👋 Hi, I’m Ravindra Singh </h1>
 - 👀 I’m interested in frontend development, web technologies, and creating seamless user experiences.
 - 🌱 I’m currently learning backend development and advanced JavaScript frameworks, improving my React skills, and exploring new front-end tools and libraries.
 - 💞️ I’m looking to collaborate on exciting web development projects, especially those that challenge me to learn and grow.
