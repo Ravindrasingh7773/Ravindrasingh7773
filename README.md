@@ -1,4 +1,4 @@
-![logo](https://github.com/Ravindrasingh7773/Ravindrasingh7773/blob/main/2.png)
+![logo](github-banner.png)
 <h1 align="center">Hi 👋, I'm Ravindra SIngh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
