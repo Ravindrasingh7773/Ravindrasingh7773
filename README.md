@@ -1,15 +1,18 @@
 ![logo](github-banner.png)
-<h1 align="center">Hi 👋, I'm Ravindra SIngh</h1>
+<h1 align="center">Hi 👋, I'm Ravindra Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravindrasingh7773&label=Profile%20views&color=0e75b6&style=flat" alt="ravindrasingh7773" /> </p>
 
+<p align="left"> 
+ 🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
+ <img src="https://komarev.com/ghpvc/?username=ravindrasingh7773&label=Profile%20views&color=0e75b6&style=flat" alt="ravindrasingh7773" /> 
+</p>
 - 🔭 I’m currently working on **e-commerce website**
 
 - 🌱 I’m currently learning **Reactjs advance**
 
-- 💬 Ask me about **react,js**
+- 💬 Ask me about **ReactJs, Javascript**
 
 - 📫 How to reach me **itsravindra2006@gamil.com**
 
@@ -30,3 +33,21 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravindrasingh7773&show_icons=true&locale=en" alt="ravindrasingh7773" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravindrasingh7773&" alt="ravindrasingh7773" /></p>
+
+---
+```javascript
+// Check if the code is functioning correctly
+if (isCodeWorking) {
+    // Continuously improve the code quality until it reaches perfection
+    while (codeQuality < perfection) {
+        codeQuality++; // Increment code quality
+    }
+}
+
+while (alive) {
+    eat();
+    sleep();
+    code();
+}
+// - Ravindra Singh
+```
