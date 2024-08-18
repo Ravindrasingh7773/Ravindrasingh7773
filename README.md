@@ -10,7 +10,7 @@
 </p>
 - 🔭 I’m currently working on **e-commerce website**
 
-- 🌱 I’m currently learning **Reactjs advance**
+- 🌱 I’m currently learning **Backend skills**
 
 - 💬 Ask me about **ReactJs, Javascript**
 
