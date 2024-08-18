@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Backend skills**
 
-- 💬 Ask me about **ReactJs, Javascript**
+- 💬 Ask me about **Frontend development**
 
 - 📫 How to reach me **itsravindra2006@gamil.com**
 
